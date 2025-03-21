@@ -7,8 +7,8 @@
 
 #### Setup
 1. ```
-    git clone https://github.com/your-username/laravel-rabbitmq-project.git
-    cd laravel-rabbitmq-project
+    git clone https://github.com/kalibano/chargepoint.git
+    cd chargepoint
 
 2. ```
     cp .env.exmaple .env
@@ -66,6 +66,8 @@
 6. Persists the decision.
 
 7. Sends the decision to the provided callback URL
+
+ ![Alt text](FlowDiagram.png)
 
 
 #### Scalling considration
